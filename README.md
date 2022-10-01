@@ -1,6 +1,6 @@
 ### Olá! sou  Marco 👋
 
-- 🔭 Graduando de Ciências da Computação
+- 🔭 Graduando em Ciências da Computação
 - 🌱 Aprendendo .Net
 - 🤗 A procura de um job
 - ⚡ Gosto de aprender coisas novas
