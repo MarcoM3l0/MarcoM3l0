@@ -1,9 +1,9 @@
 ### Olá! sou  Marco 👋
 
 - 🔭 Graduando em Ciências da Computação
-- 🌱 Aprendendo .Net
+- 🌱 Aprendendo coisas novas
 - 🤗 A procura de um job
-- ⚡ Gosto de aprender coisas novas
+- ⚡ proativo d+
 
 <div align="center">
   <a href="https://github.com/MarcoM3l0">
