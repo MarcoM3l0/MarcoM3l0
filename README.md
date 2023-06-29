@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Estudante do 3° período de Ciência da computação <br>💻 Foco principal back-end develop <br>👯 Estou procurando um emprego na área  <br>🤝 Sempre aprendendo coisas novas<br>🌱 Mente criativa<br>💬 disponível 
+🔭 Estudante do 3° período de Ciência da computação <br>👯 Estou procurando um emprego na área  <br>🤝 Sempre aprendendo coisas novas<br>🌱 Mente criativa<br>💬 disponível 
 
 
 ## 🌐 Socials:
