@@ -11,21 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=MarcoM3l0&theme=kacho_ga&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MarcoM3l0&theme=kacho_ga&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoM3l0&theme=kacho_ga&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Citação aleatória do desenvolvedor:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=MarcoM3l0&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-  ##
- 
-<div> 
-  
-   ![Snake animation](https://github.com/MarcoM3l0/MarcoM3l0/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-
