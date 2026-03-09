@@ -29,7 +29,7 @@ Sou apaixonado por resolver problemas complexos através do código. Com formaç
 | :--- | :--- | :--- |
 | **[MicroShop](https://github.com/MarcoM3l0/MicroShop)** | Arquitetura de microsserviços desenvolvida com .NET, focada em escalabilidade e boas práticas de desenvolvimento back-end. | .NET, C#, Entity Framework |
 | **[Controle de Gastos](https://github.com/MarcoM3l0/Controle-de-gastos-residenciais)** | Sistema prático para gestão financeira, aplicando conceitos de CRUD, persistência de dados e lógica de negócios. | .Net, C#, Entity Framework, Typescript, React |
-| **[Jogo Genius](https://github.com/MarcoM3l0/jogo-genius-sistemas-embarcados)** | Projeto que integra software e hardware, demonstrando minha base técnica em sistemas eletrônicos e lógica de baixo nível. Integração entre software e sistemas embarcados. | C++, Arduino IDE |
+| **[Jogo Lumina](https://github.com/MarcoM3l0/jogo-lumina-sistemas-embarcados)** | Projeto que integra software e hardware, demonstrando minha base técnica em sistemas eletrônicos e lógica de baixo nível. Integração entre software e sistemas embarcados. | C++, Arduino IDE |
 
 ---
 
