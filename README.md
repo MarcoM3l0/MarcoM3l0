@@ -9,6 +9,7 @@ Sou apaixonado por resolver problemas complexos através do código. Com formaç
 ### 🛠️ Tecnologias e Ferramentas
 
 **Back-end & Databases**
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
