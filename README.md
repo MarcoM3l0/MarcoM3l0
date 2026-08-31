@@ -37,13 +37,13 @@ Sou apaixonado por resolver problemas complexos através do código. Com formaç
 
 ---
 
-### 📊 Atividade no GitHub
+<!-- ### 📊 Atividade no GitHub
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MarcoM3l0&theme=react-dark&area=true&hide_border=true" />
 </p>
 
----
+--->
 
 ### 🎓 Formação & Objetivos
 
